@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:IT_WEB_23_63_0055_KHSDHettiarachchi_Q2Context"
+    }
+  }
+}
