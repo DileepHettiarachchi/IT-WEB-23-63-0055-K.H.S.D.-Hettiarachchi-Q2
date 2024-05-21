@@ -21,6 +21,24 @@ namespace IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Course_Info", b =>
+                {
+                    b.Property<string>("Course_Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Lecturer_Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Course_Id");
+
+                    b.ToTable("Course_Info");
+                });
+
             modelBuilder.Entity("IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Student_Info", b =>
                 {
                     b.Property<string>("Student_Id")

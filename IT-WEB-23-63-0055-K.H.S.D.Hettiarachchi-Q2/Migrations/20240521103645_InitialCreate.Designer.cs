@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Migrations
 {
     [DbContext(typeof(IT_WEB_23_63_0055_KHSDHettiarachchi_Q2Context))]
-    [Migration("20240519171322_InitialCreate")]
+    [Migration("20240521103645_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -23,6 +23,24 @@ namespace IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Course_Info", b =>
+                {
+                    b.Property<string>("Course_Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Lecturer_Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Course_Id");
+
+                    b.ToTable("Course_Info");
+                });
 
             modelBuilder.Entity("IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Student_Info", b =>
                 {
