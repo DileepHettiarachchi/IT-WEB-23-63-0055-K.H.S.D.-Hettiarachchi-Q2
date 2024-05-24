@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|d:\\e\\slii\\my final project\\q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|d:\\e\\slii\\my final project\\q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\model\\all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|solutionrelative:model\\all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|solutionrelative:pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|d:\\e\\slii\\my final project\\q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|d:\\e\\slii\\my final project\\q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|solutionrelative:pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -98,59 +98,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\All_\\Index.cshtml",
-              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Index.cshtml",
-              "RelativeToolTip": "Pages\\All_\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T22:31:47.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\All_\\Delete.cshtml.cs",
-              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\All_\\Delete.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T22:31:46.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\All_\\Delete.cshtml",
-              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\All_\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T22:31:46.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\All_\\Details.cshtml.cs",
-              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\All_\\Details.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T22:31:46.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\All_\\Details.cshtml",
@@ -158,12 +106,11 @@
               "RelativeToolTip": "Pages\\All_\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T22:31:46.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T22:31:46.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -171,12 +118,11 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T21:06:49.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T21:06:49.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "All.cs",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Model\\All.cs",
               "RelativeDocumentMoniker": "Model\\All.cs",
@@ -189,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\All_\\Index.cshtml.cs",
@@ -197,12 +143,11 @@
               "RelativeToolTip": "Pages\\All_\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T22:31:47.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T22:31:47.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\All_\\Edit.cshtml.cs",
@@ -210,12 +155,11 @@
               "RelativeToolTip": "Pages\\All_\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T22:31:46.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T22:31:46.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\All_\\Edit.cshtml",
@@ -223,12 +167,72 @@
               "RelativeToolTip": "Pages\\All_\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T22:31:46.487Z",
+              "WhenOpened": "2024-05-24T22:31:46.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:15:03.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\All_\\Details.cshtml.cs",
+              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\All_\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:31:46.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\All_\\Delete.cshtml",
+              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\All_\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:31:46.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\All_\\Delete.cshtml.cs",
+              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\All_\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:31:46.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\All_\\Index.cshtml",
+              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Index.cshtml",
+              "RelativeToolTip": "Pages\\All_\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:31:47.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\All_\\Create.cshtml.cs",
@@ -236,12 +240,11 @@
               "RelativeToolTip": "Pages\\All_\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T22:31:46.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T22:31:46.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\All_\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\All_\\Create.cshtml",
@@ -249,12 +252,11 @@
               "RelativeToolTip": "Pages\\All_\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T22:31:46.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T22:31:46.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml",
@@ -266,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IT_WEB_23_63_0055_KHSDHettiarachchi_Q2Context.cs",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Data\\IT_WEB_23_63_0055_KHSDHettiarachchi_Q2Context.cs",
               "RelativeDocumentMoniker": "Data\\IT_WEB_23_63_0055_KHSDHettiarachchi_Q2Context.cs",
@@ -278,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CoursesNew.cs",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Model\\CoursesNew.cs",
               "RelativeDocumentMoniker": "Model\\CoursesNew.cs",
@@ -290,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\Courses\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Courses\\Create.cshtml",
@@ -311,18 +313,6 @@
               "ViewState": "AQIAAB4AAAAAAAAAAAAAAAoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T20:54:03.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T20:15:03.248Z"
             },
             {
               "$type": "Document",
