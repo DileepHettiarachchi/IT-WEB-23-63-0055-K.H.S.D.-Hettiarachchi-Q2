@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|d:\\e\\slii\\my final project\\q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\it-web-23-63-0055-k.h.s.d.hettiarachchi-q2\\model\\all_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27837AEE-F673-485C-B5C4-8DF342B5950A}|IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2.csproj|solutionrelative:model\\all_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "All_info.cs",
+              "DocumentMoniker": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Model\\All_info.cs",
+              "RelativeDocumentMoniker": "Model\\All_info.cs",
+              "ToolTip": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\Model\\All_info.cs",
+              "RelativeToolTip": "Model\\All_info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:19:12.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
