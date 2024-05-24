@@ -26,7 +26,10 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: url('../images/henry-co--odukx8c2gg-unsplash.jpg');
+    image-width: 100%;
+    image-height: auto;
 }
 .First_Text {
     font-size: 60px;
@@ -35,6 +38,27 @@ body {
     font-family: "Oswald", sans-serif;
 }
 .first_para {
+    font-size: 27px;
+    font-family: "Oswald", sans-serif;
+    font-weight: None;
+}
+img1{
+    width:10px;
+
+}
+FIRST_col {
+    display:flex;
+}
+List1{
+    list-style:none;
+}
+.Topic1 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+}
+}
+.para2 {
     font-size: 20px;
-    
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
 }

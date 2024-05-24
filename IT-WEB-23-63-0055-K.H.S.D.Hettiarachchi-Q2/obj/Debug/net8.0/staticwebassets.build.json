@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f4rW1MRE5IZiiH8wlLjxsVGfH4kO3zY+E7csYTxxOuI=",
+  "Hash": "FBFy1bcJTZFL5mNs1ZH7dmxeF4WxTlgeQUqlSicvVOs=",
   "Source": "IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2",
   "BasePath": "_content/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\wwwroot\\Images\\2149023766.jpg",
+      "SourceId": "IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\wwwroot\\",
+      "BasePath": "_content/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2",
+      "RelativePath": "Images/2149023766.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2149023766.jpg"
     },
     {
       "Identity": "D:\\e\\slii\\My Final Project\\Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\\wwwroot\\js\\site.js",
