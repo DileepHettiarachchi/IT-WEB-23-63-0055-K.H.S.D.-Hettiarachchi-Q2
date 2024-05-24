@@ -16,7 +16,25 @@ html {
   position: relative;
   min-height: 100%;
 }
+// <uniquifier > : Use a unique and descriptive class name
+
+.oswald-<uniquifier > {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
 
 body {
   margin-bottom: 60px;
+}
+.First_Text {
+    font-size: 60px;
+    font-weight: bold;
+    color: darkred;
+    font-family: "Oswald", sans-serif;
+}
+.first_para {
+    font-size: 20px;
+    
 }
