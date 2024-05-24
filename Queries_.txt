@@ -1,0 +1,51 @@
+iv) A. SELECT   * FROM Courses,Students;
+-------------------------------------------------------------------------------------------------------------Course_Id	_Name	Lecturer_Name	Student_Id	_Name	City	Course_Id
+1	Web Development	M.M. Herath	1	Kasun Gamage	Kandy	2
+1	Web Development	M.M. Herath	2	Daniel Sam	Jaffna	3
+1	Web Development	M.M. Herath	3	Hansi Silva	Colombo	1
+1	Web Development	M.M. Herath	4	Ranidu Heath	Matara	3
+1	Web Development	M.M. Herath	5	Praneeth Wijesinghe	Kandy	4
+1	Web Development	M.M. Herath	6	Nuwani Herath	Rathnapura	1
+2	Graphic Design	J.S.V. Piyasena	1	Kasun Gamage	Kandy	2
+2	Graphic Design	J.S.V. Piyasena	2	Daniel Sam	Jaffna	3
+2	Graphic Design	J.S.V. Piyasena	3	Hansi Silva	Colombo	1
+2	Graphic Design	J.S.V. Piyasena	4	Ranidu Heath	Matara	3
+2	Graphic Design	J.S.V. Piyasena	5	Praneeth Wijesinghe	Kandy	4
+2	Graphic Design	J.S.V. Piyasena	6	Nuwani Herath	Rathnapura	1
+3	Mobile App Development	K.K.S. Dias	1	Kasun Gamage	Kandy	2
+3	Mobile App Development	K.K.S. Dias	2	Daniel Sam	Jaffna	3
+3	Mobile App Development	K.K.S. Dias	3	Hansi Silva	Colombo	1
+3	Mobile App Development	K.K.S. Dias	4	Ranidu Heath	Matara	3
+3	Mobile App Development	K.K.S. Dias	5	Praneeth Wijesinghe	Kandy	4
+3	Mobile App Development	K.K.S. Dias	6	Nuwani Herath	Rathnapura	1
+4	Java	U.H.S. Perera	1	Kasun Gamage	Kandy	2
+4	Java	U.H.S. Perera	2	Daniel Sam	Jaffna	3
+4	Java	U.H.S. Perera	3	Hansi Silva	Colombo	1
+4	Java	U.H.S. Perera	4	Ranidu Heath	Matara	3
+4	Java	U.H.S. Perera	5	Praneeth Wijesinghe	Kandy	4
+4	Java	U.H.S. Perera	6	Nuwani Herath	Rathnapura	1
+
+
+
+
+--------------------------------------------------------------------------------------------------------------    
+    B.SELECT Student_Id,_name,city FROM Students WHERE city ='kandy';
+-------------------------------------------------------------------------------------------------------------Student_Id	_name	city
+1	Kasun Gamage	Kandy
+5	Praneeth Wijesinghe	Kandy
+
+--------------------------------------------------------------------------------------------------------------
+    C.UPDATE Students
+      SET City = 'Galle'
+      WHERE Student_Id=4;
+-------------------------------------------------------------------------------------------------------------
+  Student_Id	_Name	City	Course_Id
+1	Kasun Gamage	Kandy	2
+2	Daniel Sam	Jaffna	3
+3	Hansi Silva	Colombo	1
+4	Ranidu Heath	Galle	3
+5	Praneeth Wijesinghe	Kandy	4
+6	Nuwani Herath	Rathnapura	1
+-------------------------------------------------------------------------------------------------------------
+    D.
+
