@@ -1,0 +1,66 @@
+﻿@page
+@model IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Pages.All_.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.All_info[0].Student_No)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.All_info[0].Course_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.All_info[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.All_info[0].Lecturer_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.All_info[0].Course_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.All_info[0].City)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.All_info) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_No)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lecturer_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

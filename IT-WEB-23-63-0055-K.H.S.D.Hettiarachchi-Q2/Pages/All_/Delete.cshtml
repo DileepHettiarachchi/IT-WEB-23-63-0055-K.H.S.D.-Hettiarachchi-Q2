@@ -1,0 +1,58 @@
+﻿@page
+@model IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Pages.All_.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>All_info</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.All_info.Student_No)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.All_info.Student_No)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.All_info.Course_Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.All_info.Course_Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.All_info.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.All_info.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.All_info.Lecturer_Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.All_info.Lecturer_Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.All_info.Course_Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.All_info.Course_Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.All_info.City)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.All_info.City)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="All_info.Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>
