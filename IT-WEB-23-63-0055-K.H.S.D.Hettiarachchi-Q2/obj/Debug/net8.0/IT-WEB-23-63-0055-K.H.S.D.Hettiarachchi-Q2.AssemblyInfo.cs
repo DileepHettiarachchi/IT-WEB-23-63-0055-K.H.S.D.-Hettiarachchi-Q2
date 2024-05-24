@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+297c0bd11ff93de67d31c3a62a9fefb9ec13e187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eddebfd3480e2de3ed5e4d60a967a178c935f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

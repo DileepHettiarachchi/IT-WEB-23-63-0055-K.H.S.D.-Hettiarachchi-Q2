@@ -16,5 +16,7 @@ namespace IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Data
 
         public DbSet<IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Student_Info> Student_Info { get; set; } = default!;
         public DbSet<IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Course_Info> Course_Info { get; set; } = default!;
+        public DbSet<IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Students_InformationNew> Students_InformationNew { get; set; } = default!;
+        public DbSet<IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.CoursesNew> CoursesNew { get; set; } = default!;
     }
 }

@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\e\slii\My Final Project\Q2\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2\IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Courses_Info/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc19JbmZvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,6 +80,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/e/slii/My Final Project/Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/IT-WEB-23-63-0055-K.H.S.D.Hettiarachchi-Q2/Pages/Students_Info/Create.cshtml]

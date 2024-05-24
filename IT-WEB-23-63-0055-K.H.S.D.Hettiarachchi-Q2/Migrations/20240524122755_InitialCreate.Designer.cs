@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Migrations
 {
     [DbContext(typeof(IT_WEB_23_63_0055_KHSDHettiarachchi_Q2Context))]
-    [Migration("20240521103645_InitialCreate")]
+    [Migration("20240524122755_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -42,6 +42,31 @@ namespace IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Migrations
                     b.ToTable("Course_Info");
                 });
 
+            modelBuilder.Entity("IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.CoursesNew", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Course_Id")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Lecturer_Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("CoursesNew");
+                });
+
             modelBuilder.Entity("IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Student_Info", b =>
                 {
                     b.Property<string>("Student_Id")
@@ -62,6 +87,35 @@ namespace IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Migrations
                     b.HasKey("Student_Id");
 
                     b.ToTable("Student_Info");
+                });
+
+            modelBuilder.Entity("IT_WEB_23_63_0055_K.H.S.D.Hettiarachchi_Q2.Model.Students_InformationNew", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("City")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Course_Id")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Student_No")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Students_InformationNew");
                 });
 #pragma warning restore 612, 618
         }
